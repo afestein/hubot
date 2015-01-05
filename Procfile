@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n hal
+web: bin/hubot -a slack -n hal
